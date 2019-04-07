@@ -1,7 +1,7 @@
 ## _Contact Me_
 
 
-Author : Rakesh Yaduvanshi
+Author : Rakesh Yadav
 
 Aim : To help students like me to understand and know about the technologies that are available to us.
 
